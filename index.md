@@ -8,6 +8,9 @@ title: Schoondog Millionaires
 <div>
 <center><i>"I think that's Clare's team"</i></center>
 <br>
+<center><script type="text/javascript" src="//counter.websiteout.net/js/7/5/42/0"></script></center>
+<div>
+<br>
 <center><img src="/assets/img/schoondog.jpg" alt="Five extremely handsome people in nice clothes, posing for a picture in front of a body of water" title="Five extremely handsome people in nice clothes, posing for a picture in front of a body of water"></center>
 </div>
 <br>
