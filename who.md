@@ -1,13 +1,11 @@
 ---
 layout: minimal
-permalink: /who
+permalink: /whodat
 title: What is that guy's name
 ---
 
 
 (sorry if your name is spelled wrong, submit corrections to [youfuckedup@schoon.dog](mailto:youfuckedup@schoon.dog))
-
-
 
 * Baby Got Tap Back
     * Jenna
@@ -15,11 +13,12 @@ title: What is that guy's name
     * Chris
     * Debbie
     * Tim
-* The Rolling Stones
+
+* The Rolling Stones 
     * Val
     * Matt
     * Sean
-    * Colleen
+    * ~~Colleen~~
     * Mikayla 
     * Laura
 
@@ -30,11 +29,11 @@ title: What is that guy's name
     * Jacob
 
 * Get Your Sheet Together
-    * Chris Davis
     * Todd 
-    * Claire
+    * Colin (tall)
+    * Sally
     * Gaston
-    * Tall Colin
+    * Chris Davis
 
 * Curl Jam 
     * Bill
@@ -63,7 +62,6 @@ title: What is that guy's name
     * Johnny
     * Eileen
 
-
 * Brooms of Anarchy
     * Tanya
     * Glenn
@@ -83,3 +81,10 @@ title: What is that guy's name
     * Scott
     * Don
     * Andy
+
+* The Schoondog Millionaires
+    * Clare
+    * Greg
+    * Colin (regular)
+    * Jim
+    * Steve?
