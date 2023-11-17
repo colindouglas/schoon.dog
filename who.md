@@ -1,6 +1,6 @@
 ---
 layout: minimal
-permalink: /whodat
+permalink: /who
 title: What is that guy's name
 ---
 
