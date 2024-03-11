@@ -4,7 +4,7 @@ layout: minimal
 permalink: /index.html
 title: Schoondog Millionaires
 ---
-<div class='index-head'>The Schoondog Millionaires</div>
+<div class='index-head'>The Schoondog Millionaires</div><br>
 <div>
 <center><i>"I think that's Clare's team"</i></center>
 <br>
