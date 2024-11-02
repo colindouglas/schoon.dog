@@ -6,16 +6,16 @@ title: What is that guy's name
 
 (sorry if your name is spelled wrong, submit corrections to [youfuckedup@schoon.dog](mailto:youfuckedup@schoon.dog))
 
-* Rock Hard
+* Rock Hard (New 2024)
     * Ryan
     * Jeremy
     * Denica
     * Colleen
 
-* Sheet Happens
+* Sheet Happens (New 2024)
     * ?????
 
-* So Close
+* So Close (New 2024)
     * ?????
 
 * Baby Got Tap Back
@@ -29,9 +29,11 @@ title: What is that guy's name
     * Val
     * Matt
     * Sean
-    * ~~Colleen~~
     * Mikayla 
-    * Laura
+    * Heather
+    * Josh
+    * ~~Colleen~~
+    * ~~Laura~~
 
 * Get Your Sheet Together
     * Todd 
@@ -51,11 +53,11 @@ title: What is that guy's name
     * Victoria
     * Matt
     * Joanne
-    * Joe
     * Vanessa
+    * ~~Joe~~
 
 * Tragically Skip
-    * Chris Theriault
+    * Chris Theriault (Terry-Oh)
     * Anthony 
     * Leanne
     * Tim
@@ -67,7 +69,7 @@ title: What is that guy's name
     * Jenny
 
 * The Stoners
-    * Nadine
+    * Nadine (Nah-din)
     * Jamie
     * Scott
     * Don
@@ -81,21 +83,21 @@ title: What is that guy's name
     * Steve?
 
 * ~~We’re Here For the Beer~~
-    * Heather
-    * Josh
-    * Emily
-    * Johnny
-    * Eileen
+    * ~~Heather~~
+    * ~~Josh~~
+    * ~~Emily~~
+    * ~~Johnny~~
+    * ~~Eileen~~
 
 * ~~Brooms of Anarchy~~
-    * Tanya
-    * Glenn
-    * Darryl
-    * Colleen
-    * Taralee 
+    * ~~Tanya~~
+    * ~~Glenn~~
+    * ~~Darryl~~
+    * ~~Colleen~~
+    * ~~Taralee~~ 
 
-* Can’t Hack It
-    * Kevin
-    * David
-    * Andrew
-    * Jacob
+* ~~Can’t Hack It~~
+    * ~~Kevin~~
+    * ~~David~~
+    * ~~Andrew~~
+    * ~~Jacob~~
