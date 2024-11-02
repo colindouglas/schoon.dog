@@ -4,8 +4,19 @@ permalink: /who
 title: What is that guy's name
 ---
 
-
 (sorry if your name is spelled wrong, submit corrections to [youfuckedup@schoon.dog](mailto:youfuckedup@schoon.dog))
+
+* Rock Hard
+    * Ryan
+    * Jeremy
+    * Denica
+    * Colleen
+
+* Sheet Happens
+    * ?????
+
+* So Close
+    * ?????
 
 * Baby Got Tap Back
     * Jenna
@@ -21,12 +32,6 @@ title: What is that guy's name
     * ~~Colleen~~
     * Mikayla 
     * Laura
-
-* Can’t Hack It
-    * Kevin
-    * David
-    * Andrew
-    * Jacob
 
 * Get Your Sheet Together
     * Todd 
@@ -55,20 +60,6 @@ title: What is that guy's name
     * Leanne
     * Tim
 
-* We’re Here For the Beer
-    * Heather
-    * Josh
-    * Emily
-    * Johnny
-    * Eileen
-
-* Brooms of Anarchy
-    * Tanya
-    * Glenn
-    * Darryl
-    * Colleen
-    * Taralee 
-
 * Game of Stones
     * Sam
     * Tom 
@@ -88,3 +79,23 @@ title: What is that guy's name
     * Colin (regular)
     * Jim
     * Steve?
+
+* ~~We’re Here For the Beer~~
+    * Heather
+    * Josh
+    * Emily
+    * Johnny
+    * Eileen
+
+* ~~Brooms of Anarchy~~
+    * Tanya
+    * Glenn
+    * Darryl
+    * Colleen
+    * Taralee 
+
+* Can’t Hack It
+    * Kevin
+    * David
+    * Andrew
+    * Jacob
