@@ -12,8 +12,12 @@ title: What is that guy's name
     * Denica
     * Colleen
 
-* Sheet Happens (New 2024)
-    * ?????
+* ~~Brooms of Anarchy~~ Sheet Happens
+    * ~~Tanya~~
+    * Glenn
+    * ~~Darryl~~
+    * Colleen
+    * ??
 
 * So Close (New 2024)
     * ?????
@@ -88,13 +92,6 @@ title: What is that guy's name
     * ~~Emily~~
     * ~~Johnny~~
     * ~~Eileen~~
-
-* ~~Brooms of Anarchy~~
-    * ~~Tanya~~
-    * ~~Glenn~~
-    * ~~Darryl~~
-    * ~~Colleen~~
-    * ~~Taralee~~ 
 
 * ~~Can’t Hack It~~
     * ~~Kevin~~
