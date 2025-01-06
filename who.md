@@ -43,7 +43,7 @@ title: What is that guy's name
 * Get Your Sheet Together
     * Todd 
     * Colin (tall)
-    * Sally
+    * Sheri
     * Gaston
     * Chris Davis
 

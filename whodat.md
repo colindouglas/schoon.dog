@@ -21,7 +21,7 @@ title: What is that guy's name
     * Jen
 
 * So Close (New 2024)
-    * ?????
+    * Mary Jo's Team
 
 * Baby Got Tap Back
     * Jenna
@@ -43,7 +43,7 @@ title: What is that guy's name
 * Get Your Sheet Together
     * Todd 
     * Colin (tall)
-    * Sally
+    * Sheri
     * Gaston
     * Chris Davis
 
