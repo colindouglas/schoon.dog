@@ -21,7 +21,11 @@ title: What is that guy's name
     * Jen
 
 * So Close (New 2024)
-    * Mary Jo's Team
+    * Merri Jo
+    * Sarah
+    * Val
+    * Julie
+    * Tina
 
 * Baby Got Tap Back
     * Jenna
