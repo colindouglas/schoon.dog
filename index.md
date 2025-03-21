@@ -10,7 +10,7 @@ title: Schoondog Millionaires
 <br>
 <center><script type="text/javascript" src="//counter.websiteout.net/js/7/5/42/0"></script></center>
 <p style="color:white; font-size:150%; text-align:center;" markdown="1">
-<b>🏆 Your [2023-24](assets/img/winners.jpg) North End Curling League Champions 🏆</b>
+<b>🏆 Your [2024-25](assets/img/winners.jpg) North End Curling League Participants 🏆</b>
 </p>
 <center><img src="/assets/img/schoondog.jpg" alt="Five extremely handsome people in nice clothes, posing for a picture in front of a body of water" title="Five extremely handsome people in nice clothes, posing for a picture in front of a body of water"></center>
 </div>
