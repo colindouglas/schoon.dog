@@ -8,7 +8,7 @@ title: Schoondog Millionaires
 <div>
 <center><i>"I think that's Clare's team"</i></center>
 <br>
-<center><script type="text/javascript" src="//counter.websiteout.net/js/7/5/42/0"></script></center>
+
 <p style="color:white; font-size:150%; text-align:center;" markdown="1">
 <b>🎖️ Your [2024-25](assets/img/winners.jpg) North End Curling League <i>Participants</i> 🎖️</b>
 </p>
@@ -17,6 +17,12 @@ title: Schoondog Millionaires
 <br>
 <p style="color:gray; font-size:80%; text-align:center;" markdown="1">
  [steve](mailto:steve@schoon.dog) | [jim](mailto:jim@schoon.dog) | [greg](mailto:greg@schoon.dog) | [colin](mailto:colin@schoon.dog) | [clare](mailto:clare@schoon.dog) </p>
+
+<!-- begin counter -->
+<center>
+<a href="https://www.freecounterstat.com" title="website hit counter"><img src="https://counter5.optistats.ovh/private/freecounterstat.php?c=4zj81wlf2ycsachb95rxpuymmeq5qq1j" border="0" title="website hit counter" alt="the counter didn't load"></a>
+</center><p>
+<!-- end counter -->
 
  <p style="color:gray; font-size:100%; text-align:center;" markdown="1">
  [north end curling league](https://northendcurling.com/) </p>
