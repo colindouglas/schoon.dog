@@ -20,8 +20,7 @@ title: Schoondog Millionaires
 
 <!-- begin counter -->
 <center>
-<a href="https://www.freecounterstat.com" title="website hit counter"><img src="https://counter5.optistats.ovh/private/freecounterstat.php?c=4zj81wlf2ycsachb95rxpuymmeq5qq1j" border="0" title="website hit counter" alt="the counter didn't load"></a>
-</center><p>
+<script type="text/javascript" src="https://counter.websiteout.com/js/7/0/404/0"></script></center><p>
 <!-- end counter -->
 
  <p style="color:gray; font-size:100%; text-align:center;" markdown="1">
