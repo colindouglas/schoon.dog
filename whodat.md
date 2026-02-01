@@ -6,11 +6,12 @@ title: What is that guy's name
 
 (sorry if your name is spelled wrong, submit corrections to [youfuckedup@schoon.dog](mailto:youfuckedup@schoon.dog))
 
-* Rock Hard (New 2024)
+* ~~Rock Hard (New 2024)~~ No Promises
     * Ryan
     * Jeremy
     * Denica
     * Colleen
+    * Erin
 
 * ~~Brooms of Anarchy~~ Sheet Happens
     * ~~Tanya~~
