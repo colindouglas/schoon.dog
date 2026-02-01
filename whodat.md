@@ -1,10 +1,10 @@
 ---
 layout: minimal
-permalink: /whodat
+permalink: /who
 title: What is that guy's name
 ---
 
-(sorry if your name is spelled wrong, submit corrections to [youfuckedup@schoon.dog](mailto:youfuckedup@schoon.dog))
+(these are all fucked up in 2026, please submit corrections to [youfuckedup@schoon.dog](mailto:youfuckedup@schoon.dog))
 
 * ~~Rock Hard (New 2024)~~ No Promises
     * Ryan
@@ -42,8 +42,6 @@ title: What is that guy's name
     * Mikayla 
     * Heather
     * Josh
-    * ~~Colleen~~
-    * ~~Laura~~
 
 * Get Your Sheet Together
     * Todd 
@@ -52,25 +50,24 @@ title: What is that guy's name
     * Gaston
     * Chris Davis
 
-* Curl Jam 
-    * Bill
-    * Mel
-    * Krista
-    * Hayley
-    * Shawn
-
 * Button Pinchers
     * Victoria
     * Matt
     * Joanne
     * Vanessa
-    * ~~Joe~~
 
-* Tragically Skip
-    * Chris Theriault (Terry-Oh)
-    * Anthony 
+* Broom Goes the Dyanmite
+    * Chris Theriault
+    * Brad Theriault
+    * Grant
     * Leanne
+
+* ~~Tragically Skip~~ Hacks, Drugs & Rock 'N Roll
     * Tim
+    * Anthony 
+    * Some other guys who's names we don't know?
+    * I hope they email us
+
 
 * Game of Stones
     * Sam
@@ -79,7 +76,7 @@ title: What is that guy's name
     * Jenny
 
 * The Stoners
-    * Nadine (Nah-din)
+    * ~~Nadine (Nah-din)~~
     * Jamie
     * Scott
     * Don
@@ -90,17 +87,26 @@ title: What is that guy's name
     * Greg
     * Colin (regular)
     * Jim
-    * Steve?
+    * ~~Steve~~ (He left the groupchat)
 
-* ~~We’re Here For the Beer~~
-    * ~~Heather~~
-    * ~~Josh~~
-    * ~~Emily~~
-    * ~~Johnny~~
-    * ~~Eileen~~
+### Retirees
 
-* ~~Can’t Hack It~~
-    * ~~Kevin~~
-    * ~~David~~
-    * ~~Andrew~~
-    * ~~Jacob~~
+* Curl Jam 
+    * Bill
+    * Mel
+    * Krista
+    * Hayley
+    * Shawn
+
+* We’re Here For the Beer
+    * Heather
+    * Josh
+    * Emily
+    * Johnny
+    * Eileen
+
+* Can’t Hack It
+    * Kevin
+    * David
+    * Andrew
+    * Jacob
