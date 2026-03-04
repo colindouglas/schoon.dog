@@ -16,7 +16,7 @@ title: Schoondog Millionaires
 </div>
 <br>
 <p style="color:gray; font-size:80%; text-align:center;" markdown="1">
- [steve](/memorium-steve) | [jim](mailto:jim@schoon.dog) | [greg](mailto:greg@schoon.dog) | [colin](mailto:colin@schoon.dog) | [clare](mailto:clare@schoon.dog) </p>
+ [steve](/memoriam-steve) | [jim](mailto:jim@schoon.dog) | [greg](mailto:greg@schoon.dog) | [colin](mailto:colin@schoon.dog) | [clare](mailto:clare@schoon.dog) </p>
 
 <!-- begin counter -->
 <center>

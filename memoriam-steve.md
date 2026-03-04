@@ -1,6 +1,6 @@
 ---
 layout: minimal
-permalink: /memorium-steve.html
+permalink: /memoriam-steve.html
 title: In Memoriam - Steve
 ---
 <div class='index-head' style='font-size: 250%;'>Steve</div>

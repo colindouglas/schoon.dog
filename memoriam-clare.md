@@ -1,6 +1,6 @@
 ---
 layout: minimal
-permalink: /memorium-clare.html
+permalink: /memoriam-clare.html
 title: Do you think I'm stupid??
 ---
 <div class='index-head' style='font-size: 250%;'>Clare</div>
