@@ -23,6 +23,12 @@ Steve passed tragically in 2023 after being trampled by a herd of mountain goats
 Donations in Steve's honour can be made directly to CFB Halifax Curling Club, ensuring that you note that the money should go towards Colin Douglas' tab. He plays Wednesdays and Sundays.
 </div>
 
+<!-- begin counter -->
+<center>
+<script type="text/javascript" src="https://counter.websiteout.com/js/7/5/404/0"></script></center><p>
+<!-- end counter -->
+
+
 <p style="color:gray; font-size:100%; text-align:center;" markdown="1">
  [Return to Home](/)
 </p>
