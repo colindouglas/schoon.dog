@@ -14,13 +14,13 @@ do you really think I'm that stupid? c'mon Clare, give me some credit here. I di
 <div id="carousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/assets/img/clare0.png" class="d-block w-100" alt="clown" data-bs-interval="1000">
+      <img src="/assets/img/clare0.jpg" class="d-block w-100" alt="clown" data-bs-interval="1000">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/clare1.png" class="d-block w-100" alt="snowman" data-bs-interval="1000">
+      <img src="/assets/img/clare1.jpg" class="d-block w-100" alt="snowman" data-bs-interval="1000">
     </div>
     <div class="carousel-item">
-      <img src="/assets/img/clare2.png" class="d-block w-100" alt="yurkey" data-bs-interval="1000">
+      <img src="/assets/img/clare2.jpg" class="d-block w-100" alt="yurkey" data-bs-interval="1000">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carousel" data-bs-slide="prev">
