@@ -6,7 +6,7 @@ title: Schoondog Millionaires
 ---
 <div class='index-head'>The Schoondog Millionaires</div>
 <div>
-<center><i>"I think that's Clare's team"</i></center>
+<center><i>"I think those are the guys that Clare used to play with"</i></center>
 <br>
 
 <p style="color:white; font-size:150%; text-align:center;" markdown="1">
@@ -16,7 +16,7 @@ title: Schoondog Millionaires
 </div>
 <br>
 <p style="color:gray; font-size:80%; text-align:center;" markdown="1">
- [steve](/memoriam-steve) | [jim](mailto:jim@schoon.dog) | [greg](mailto:greg@schoon.dog) | [colin](mailto:colin@schoon.dog) | [clare](mailto:clare@schoon.dog) </p>
+ [steve](/memoriam-steve) | [jim](mailto:jim@schoon.dog) | [greg](mailto:greg@schoon.dog) | [colin](mailto:colin@schoon.dog) | [clare](/memoriam-clare) </p>
 
 <!-- begin counter -->
 <center>
