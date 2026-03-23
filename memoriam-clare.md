@@ -6,6 +6,7 @@ title: Do you think I'm stupid??
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 
 <div class='index-head' style='font-size: 250%;'>Clare</div>
+<!---
 <div>
 <center><b>In Loving Memory</b></center>
 <center><i>Whenever Clare Was Born - 202X</i></center>
@@ -36,7 +37,7 @@ title: Do you think I'm stupid??
 </center>
 
 <br />
-
+-->
 <div>
 
 do you really think I'm that stupid? c'mon Clare, give me some credit here. I didn't write it yet, just in case you change your mind.
