@@ -64,14 +64,14 @@ title: What is that guy's name
     * Grant
     * Leanne
 
-* ~~Tragically Skip~~ Hacks, Drugs & Rock 'N Roll
+* ~~Tragically Skip~~ *~~Hacks, Drugs & Rock 'N Roll~~* Plan B
     * Tim
     * Anthony 
     * Some other guys who's names we don't know?
     * I hope they email us
 
 
-* Game of Stones
+* ~~Game of Stones~~ Ice Ice Baby
     * Sam
     * Tom 
     * Keith 
