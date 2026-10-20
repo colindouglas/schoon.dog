@@ -44,12 +44,10 @@ title: What is that guy's name
     * Josh
 
 * Get Your Sheet Together
-    * Chris Davis
-    * Colin Burton (tall)
-    * Sheri Burton
-    * Gaston Viau
     * Bridget Robinson
-    * Todd - (Injury Reserve)
+    * Gaston Viau
+    * Chris Davis
+    * [Vacant]
 
 * Button Pinchers
     * Victoria
