@@ -1,3 +1,8 @@
+@use "sass:math";
+@use "variables" as *;
+@use "mixins" as *;
+
+
 .contact-link {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   text-align: center;

@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+@use "sass:math";
+@use "variables" as *;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: math.div($spacing-unit, 2);
+//     padding-left: math.div($spacing-unit, 2);
+//   }
+// }
+// Notice the following mixin uses max-width, in a deprecated, desktop-first
+// approach, whereas media queries used elsewhere now use min-width.
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: #{$ratio}rem;
+}

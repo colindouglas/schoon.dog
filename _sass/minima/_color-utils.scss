@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+@use "sass:color";
+@use "sass:math";
+
+// Change the HSL lightness by `$amount`, clamped to 0%-100% like the old
+// global `lighten()` and `darken()` did. `color.adjust` does not clamp.
+@function shift-lightness($color, $amount) {
+  $lightness: color.channel($color, "lightness", $space: hsl) + $amount;
+  @return color.change($color, $lightness: math.max(0%, math.min(100%, $lightness)));
+}

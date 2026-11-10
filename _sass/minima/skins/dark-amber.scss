@@ -3,15 +3,17 @@
 
 @charset "utf-8";
 
+@use "../color-utils";
+
 $brand-color:           #78290F !default;
-$brand-color-light:     lighten($brand-color, 5%) !default;
-$brand-color-dark:      darken($brand-color, 35%) !default;
+$brand-color-light:     color-utils.shift-lightness($brand-color, 5%) !default;
+$brand-color-dark:      color-utils.shift-lightness($brand-color, -35%) !default;
 
 $site-title-color:      $brand-color-light !default;
 
 $text-color:            #FFECD1 !default;
 $background-color:      #001524 !default;
-$code-background-color: lighten(#FFECD1, 20%) !default;
+$code-background-color: color-utils.shift-lightness(#FFECD1, 20%) !default;
 
 $link-base-color:       #79b8ff !default;
 $link-visited-color:    $link-base-color !default;
@@ -22,9 +24,9 @@ $border-color-02:       $brand-color-light !default;
 $border-color-03:       $brand-color !default;
 
 $table-text-color:      $text-color !default;
-$table-zebra-color:     lighten($background-color, 4%) !default;
-$table-header-bg-color: lighten($background-color, 10%) !default;
-$table-header-border:   lighten($background-color, 21%) !default;
+$table-zebra-color:     color-utils.shift-lightness($background-color, 4%) !default;
+$table-header-bg-color: color-utils.shift-lightness($background-color, 10%) !default;
+$table-header-border:   color-utils.shift-lightness($background-color, 21%) !default;
 $table-border-color:    $border-color-01 !default;
 
 
